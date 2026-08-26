@@ -3,6 +3,9 @@
 ###
 
 <div data-importer="image" align="center">
+
+![Texto Alternativo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1iZnowZ2RybXhlanBmbnpmZmdwMHN5cXdoYXNjNXRkbHMyNHMxdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7jRkB8rNPeC5TcghvG/giphy.gif)
+  
   <img data-importer="image" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1iZnowZ2RybXhlanBmbnpmZmdwMHN5cXdoYXNjNXRkbHMyNHMxdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7jRkB8rNPeC5TcghvG/giphy.gif"  />
 </div>
 
