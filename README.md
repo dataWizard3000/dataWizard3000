@@ -1,58 +1,47 @@
-<h2 data-importer="text" align="left">Olá, eu sou dataWizard3000</h2>
+<h2 align="left">Olá, eu sou dataWizard3000</h2>
 
-###
-
-<div data-importer="image" align="center">
-
-![Texto Alternativo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1iZnowZ2RybXhlanBmbnpmZmdwMHN5cXdoYXNjNXRkbHMyNHMxdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7jRkB8rNPeC5TcghvG/giphy.gif)
-  
-  <img data-importer="image" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1iZnowZ2RybXhlanBmbnpmZmdwMHN5cXdoYXNjNXRkbHMyNHMxdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7jRkB8rNPeC5TcghvG/giphy.gif"  />
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1iZnowZ2RybXhlanBmbnpmZmdwMHN5cXdoYXNjNXRkbHMyNHMxdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7jRkB8rNPeC5TcghvG/giphy.gif" alt="GIF de apresentação" height="200" />
 </div>
 
-###
+<br />
 
-<br clear="both">
+<p align="center"><strong>STACKS:</strong></p>
 
-<p data-importer="text" align="center">STACKS:</p>
-
-###
-
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo" />
 </div>
 
-###
+<br />
 
-<br clear="both">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dataWizard3000/dataWizard3000/snake-output/snake.svg" alt="Snake animation" />
+</div>
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/dataWizard3000/dataWizard3000/snake-output/snake.svg" alt="Snake animation" />
+<br />
 
-###
-
-<div data-importer="socials" align="left">
+<div align="left">
   <a href="https://www.instagram.com/kaique.ferreira12/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
 </div>
 
-###
+<br />
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=dataWizard3000.dataWizard3000&"  />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dataWizard3000.dataWizard3000" alt="Visitor Badge" />
 </div>
-
-###
