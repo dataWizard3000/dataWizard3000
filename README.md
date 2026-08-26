@@ -1,109 +1,114 @@
 
+<!-- HEADER BANNER ANIMADO -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10&height=200&section=header&text=Seu%20Nome%20Aqui&fontSize=45&animation=fadeIn&fontColor=fff" width="100%" alt="Header Banner"/>
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=220&section=header&text=Olá,%20sou%20Dev%20Full%20Stack%20%26%20IoT%20🚀&fontSize=38&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header Banner"/>
+
   <br/>
+
+  <!-- BADGES DE STATUS -->
+  <a href="https://github.com/SEU_USUARIO">
+    <img src="https://img.shields.io/badge/Foco-Backend%20%26%20IoT-00FFFF?style=for-the-badge&logo=microchip&logoColor=black" alt="Foco" />
+    <img src="https://img.shields.io/badge/Status-Desenvolvendo%20Ideias-8A2BE2?style=for-the-badge&logo=git&logoColor=white" alt="Status" />
+  </a>
+
+  <br/><br/>
   
-
   <p align="center">
-    <img src="https://img.shields.io/badge/Focus-Full%20Stack-blueviolet?style=for-the-badge&logo=codeforces&logoColor=white" alt="Focus" />
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" alt="Status" />
+    💡 <i>Conectando o mundo digital ao físico. Desenvolvo APIs robustas em Node.js e projetos de automação/IoT com C++ e Arduino.</i>
   </p>
-
-  <p>🚀 Desenvolvedor Full Stack apaixonado por criar soluções modernas, automações e experiências interativas.</p>
 </div>
 
-<hr />
+<br/>
 
+---
 
+<!-- SEÇÃO SOBRE MIM -->
 ## 🚀 Sobre Mim
 
-- 🔭 Atualmente trabalhando em **[Nome do Projeto Principal]**
-- 🌱 Aprendendo mais sobre **[Sua Tecnologia de Estudo Atual]**
-- 💬 Pergunte-me sobre **JavaScript, React, Node.js ou Arquitetura Web**
-- ⚡ Curiosidade: Adoro transformar ideias em código e criar perfis interativos no GitHub!
+- 💻 **Backend & Web:** Criando aplicações web com **JavaScript, Node.js e Express**.
+- 🔌 **Hardware & IoT:** Desenvolvendo autômatos e soluções inteligentes com **C++ e Arduino IDE**.
+- 🐍 **Outras habilidades:** Desenvolvendo scripts e automações com **Python**.
+- 🎯 **Objetivo:** Integrar sistemas embarcados a serviços web em nuvem.
 
-<hr />
+<br/>
 
+---
 
-## 🛠️ Tech Stack
+<!-- TECH STACK ORGANIZADA -->
+## 🛠️ Tech Stack & Ferramentas
 
 <div align="center">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;
+### 🌐 Web & Backend
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+</p>
 
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40" alt="TailwindCSS" />
+### 🔌 Hardware & IoT
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE"/>
+</p>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
+### 🐍 Outras Ferramentas
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
 
-  <!-- Backend & BD -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
 </div>
 
-<hr />
+<br/>
 
-<!-- ÁREA DO JOGO INTERATIVO -->
-## 🎮 Área do Jogo: Snake de Contribuições
+---
 
-> **Como funciona:** Este jogo é atualizado automaticamente via GitHub Actions. A cobrinha (Snake) anda sobre o gráfico de contribuições do GitHub com base nas atividades de commits.
+<!-- JOGO DA SNAKE DE CONTRIBUIÇÕES -->
+## 🎮 Área Interativa: Snake de Contribuições
+
+> 🕹️ **Jogo em tempo real:** A cobrinha abaixo come os "commits" gerados no meu gráfico de contribuições do GitHub!
+
+<br/>
 
 <div align="center">
-  <!-- 
-    NOTA DE CONFIGURAÇÃO DO SNAKE:
-    Para que a imagem da cobrinha apareça abaixo, é necessário configurar o Action "Platane/snk" 
-    no seu repositório (.github/workflows/snake.yml). 
-    Substitua 'SEU_USUARIO' pelo seu username do GitHub.
-  -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
+    <img alt="Snake das Contribuições" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
 
-<details>
-  <summary>🎮 Quer jogar Tic-Tac-Toe (Jogo da Velha) no meu perfil?</summary>
-  <br />
-  <p>Para implementar o Tic-Tac-Toe via GitHub Issues/Actions (onde os visitantes jogam clicando nas células do tabuleiro no README):</p>
-  <ol>
-    <li>Utilize um bot pronto como o <a href="https://github.com/johanneskoester/github-readme-stats">github-readme-stats</a> ou o projeto <a href="https://github.com/TimGarten/readme-tic-tac-toe">readme-tic-tac-toe</a>.</li>
-    <li>Conecte os links das células para disparar rotas de <code>issuedispatch</code> no seu repositório.</li>
-  </ol>
-</details>
+<br/>
 
-<hr />
+---
 
-<!-- ESTATÍSTICAS DO GITHUB -->
-## 📊 Estatísticas
+<!-- ESTATÍSTICAS -->
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <!-- Substitua 'SEU_USUARIO' pelo seu username real do GitHub -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=cyberpunk&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=cyberpunk&hide=html,css"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
 </div>
 
-<hr />
+<br/>
 
-<!-- CONTATO E REDES SOCIAIS -->
-## 📫 Contato & Redes Sociais
+---
+
+<!-- CONTATO -->
+## 📫 Vamos conversar?
 
 <div align="center">
   <a href="https://linkedin.com/in/SEU_PERFIL" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:seu-email@dominio.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://twitter.com/SEU_PERFIL" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <sub><i> README gerado com foco em IoT & Full Stack </i></sub>
 </div>
