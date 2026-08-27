@@ -1,7 +1,7 @@
 <h2 align="left">Olá, eu sou dataWizard3000</h2>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFrN3ZlYmhieGtlcGF3aWtyZjV0dWxnbmNpNWVlOG1ud3V5ZGtwNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zOvBKUUEERdNm/giphy.gif" alt="GIF de apresentação" height="200" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjA0eDY3Mjdqd3cyb2N1aHBoeGwwemQwdGlzNXZ4c2djc2RqYjFoMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7jRkB8rNPeC5TcghvG/giphy.gif" alt="GIF de apresentação" height="200" />
 </div>
 
 <br />
